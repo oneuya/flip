@@ -1,0 +1,197 @@
+{
+    "items":[
+        {
+           "sort":[1,3],
+           "thumb":"./assets/img/deta-img1.webp",
+           "loc":"송파/강동",
+           "title":"7월 1일(토) 모객중ㅣ[강원ROAD] 뮤지엄산, 원주 예술여행",
+           "review":{
+               "star":5,
+               "view":20
+          },
+           "price":{
+                "ori":"",
+                "sale":"",
+                "curr":"80,000"
+           },
+           "only":true,
+           "energy":false,
+           "superhost":false
+           
+
+        },
+       {
+          "sort":[1,3],
+          "thumb":"./assets/img/deta-img2.webp",
+          "loc":"송파/강동",
+          "title":"6월 24일&25일 출발확정 ㅣ 브라보서프로 당일치기 서핑가자🏄🏻‍♂️",
+          "review":{
+               "star":4,
+               "view":20
+          },
+          "price":{
+               "ori":"65,000",
+               "sale":"15%",
+               "curr":"55,000"
+          },
+          "only":true,
+          "energy":false,
+          "superhost":false
+          
+          
+       },
+       {
+          "sort":[1,4],
+          "thumb":"./assets/img/deta-img3.webp",
+          "loc":"송파/강동",
+          "title":"[잠실] 다이어트, 유산소, 운동은 스쿼시 원포인트 레슨!",
+          "review":{
+               "star":4,
+               "view":40
+          },
+          "price":{
+               "ori":"",
+               "sale":"",
+               "curr":"35,000"
+          },
+          "only":true,
+          "energy":false,
+          "superhost":false
+          
+       },
+       {
+          "sort":[1,4],
+          "thumb":"./assets/img/deta-img4.webp",
+          "loc":"경기 전체",
+          "title":"[2030 혼자여행] 국내최초 1박2일 불멍스키 혼펜_따로 또 같이",
+          "review":{
+               "star":4,
+               "view":50
+          },
+          "price":{
+               "ori":"",
+               "sale":"",
+               "curr":"159,000"
+          },
+          "only":true,
+          "energy":false,
+          "superhost":false
+          
+       },
+       {
+         "sort":[2,4],
+         "thumb":"./assets/img/deta-img5.webp",
+         "loc":"온라인",
+         "title":"[얼리버드 할인] 진정성 있는 소개팅ㅣ꼭 맞는 사람 찾아드려요!!💘",
+         "review":{
+               "star":4,
+               "view":20
+          },
+         "price":{
+              "ori":"",
+              "sale":"",
+              "curr":"10,000"
+         },
+         "only":true,
+         "energy":false,
+         "superhost":false
+         
+       },
+             {
+          "sort":[2,4],
+          "thumb":"./assets/img/deta-img6.webp",
+          "loc":"전국",
+          "title":"[하트트래블] 싱글 남녀들이 함께 떠나는 주말 여행! (구 솔로트립)",
+          "review":{
+               "star":4,
+               "view":123
+          },
+          "price":{
+               "ori":"",
+               "sale":"",
+               "curr":"500,000"
+          },
+          "only":true,
+          "energy":false,
+          "superhost":false
+          
+       },
+       {
+         "sort":[2,5],
+         "thumb":"./assets/img/deta-img7.webp",
+         "loc":"강남/서초",
+         "title":"[강남/청담] 김주현의 '피안오페라' #문화예술 #강연 #와인 #모임",
+          "review":{
+               "star":4,
+               "view":213
+          },
+         "price":{
+              "ori":"50,000",
+              "sale":"10%",
+              "curr":"45,000"
+         },
+         "only":true,
+         "energy":true,
+         "superhost":false
+         
+      },
+      {
+         "sort":[2,5],
+         "thumb":"./assets/img/deta-img8.webp",
+         "loc":"강남/서초",
+         "title":"[투잡] 스마트스토어 배송없이 무재고쇼핑몰 운영하기 (예약 가능)",
+          "review":{
+               "star":4,
+               "view":2
+          },
+         "price":{
+              "ori":"178,000",
+              "sale":"50%",
+              "curr":"89,400"
+         },
+         "only":true,
+         "energy":true,
+         "superhost":false
+         
+      },
+      {
+         "sort":[3,5],
+         "thumb":"./assets/img/deta-img9.webp",
+         "loc":"동대문/성북",
+         "title":"[대학생 할인] 심심한 대학생들 모여라! 칵테일 클래스&센서리 소셜링",
+          "review":{
+               "star":3,
+               "view":20
+          },
+         "price":{
+              "ori":"",
+              "sale":"",
+              "curr":"35,000"
+         },
+         "only":true,
+         "energy":true,
+         "superhost":false
+
+         
+      },
+             {
+          "sort":[3,5],
+          "thumb":"./assets/img/deta-img10.webp",
+          "loc":"종로/중구",
+          "title":"[종로] 2030 아트&와인 파티 : 아트팅 ",
+          "review":{
+               "star":2,
+               "view":1245
+          },
+          "price":{
+               "ori":"90,000",
+               "sale":"50%",
+               "curr":"45,000"
+          },
+          "only":true,
+          "energy":true,
+          "superhost":false
+          
+       }
+    ]
+}
